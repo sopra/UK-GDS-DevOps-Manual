@@ -11,7 +11,7 @@
 開発と運用をまとめる。
 
 DevOpsは、大規模組織によって一般的に行なわれている間違いに対する文化的、専門的な運動です。  
-組織はいかのような単位で断絶していることがよくあります。
+組織は下記単位で断絶していることがよくあります。
 
 - 開発
 - QA
@@ -23,9 +23,10 @@ DevOpsは、大規模組織によって一般的に行なわれている間違�
 - 違う組織で働いている
 - 全く違う管理構造の下にいる
 
-これらの単位、もしくは個人のインセンティブ間にあるコミュニケーションのコストは、価値提供の遅延と、相互のプロセスの巨大化を導きます。  
+これらの単位の、もしくは個人のインセンティブ間のコミュニケーション・コストは、価値提供の遅延と、相互のプロセスの巨大化を導きます。  
 DevOpsはこの間違いを指摘しています。DevOpsは方法論やフレームワークではありません。この間違った関係を壊す意欲と原則の集まりです。  
-特に、DevOpsは下記の4つの項目がすべてです。。
+
+DevOpsは下記の4つの項目がすべてです。
 
 - culture (文化)
 - automation (自働化)
@@ -36,13 +37,14 @@ DevOpsはこの間違いを指摘しています。DevOpsは方法論やフレ�
 ## Culture (文化)
 
 DevOpsはオーナーシップを共有し、サービスの構築から管理までを共に行うコラボレーションする変化を必要としています。  
-この文化の変化は、組織を確立するために特に重要です。
+文化の変化は、組織を確立するために特に重要です。
 
 
 ## Automation (自働化)
 
-多くのビジネスプロセスは、自働化される予定です。自働化はマニュアルや、間違いを引き起こすタスクをなくし、私達がサービス品質に注力することを許します。  
-自働化は、一般的な領域で役立ちます。
+多くのビジネスプロセスは、自働化されるのを待っています。  
+自働化はマニュアルや、間違いを引き起こすタスクをなくし、私達がサービス品質に注力することを許します。  
+自働化は、一般的に下記領域で役立ちます。
 
 - リリース管理 (ソフトウェアをリリースする)
 - プロビジョニング
@@ -94,12 +96,12 @@ DevOpsはプロジェクト管理の方法論ではありませんが、あな�
 DevOpsとして独特なことをするではなく、部署間の隔たりをぶち壊したいときに、それを手伝ってくれるものです。
 
 - [クロス・ファンクショナル・チーム](https://www.gov.uk/service-manual/the-team) - 互いに異なる職能を持った人々によって成り立ちます。(これはエンド・ツー・エンドなサービス品質をチームが認識することを助け、部署間の隔たりをを壊しやすくします)
-- [幅広いメトリクスの共有](https://www.gov.uk/service-manual/measurement) - it’s important for everyone to know what ‘good’ looks like so share high and low level metrics as widely as possible as it builds understanding
-- 反復タスクの自働化 - use software development to automate tasks across the service as it:
- - encourages a better understanding of the whole service
- - frees up smart people from doing repetitive manual tasks
-- [振り返り] - issues will happen so it’s critical that everyone across different teams learns from them; running post-mortems (an analysis session after an event) with people from different groups is a great way of spreading knowledge
-- [定期的なリリース](https://www.gov.uk/service-manual/making-software/release-strategies) - the capacity for releasing software is often limited in siloed organisations, because the responsibilities of the different parts of the release are often spread out across teams – getting to a point where you can release regularly (even many times a day) requires extreme collaboration and clever automation
+- [幅広いメトリクスの共有](https://www.gov.uk/service-manual/measurement) - 全員が理解をして、低レベルから高レベルのメトリクスを可能な限り幅広く共有され、何が「よいこと」か知ることは重要です。
+- 反復タスクの自働化 - サービスをまたがって、ソフトウェア開発のタスク自働化を行おう
+ - 全サービスのより良い理解を促します
+ - 繰り返されるマニュアルタスクから、人々を自由にします
+- [振り返り] - 問題は起こるものなので、異なるチーム同士でそこから学ぶことが重要です。異なるグループで振り返りを（イベント後の分析セッションで）行うことは、知識を広めるよい方法です。
+- [定期的なリリース](https://www.gov.uk/service-manual/making-software/release-strategies) - ソフトウェアリリースのキャパシティは、よく組織の隔たりによって制限されます。何故ならリリース内容の様々な責任は、チームにまたがって広がっているからです。 定期的にリリースすることができるようになるには、賢い自働化と極度のコラボレーションが必要です。
 
 
 ## こんなサインには気をつけて
