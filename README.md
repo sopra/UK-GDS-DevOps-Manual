@@ -106,16 +106,19 @@ DevOpsとして独特なことをするではなく、部署間の隔たりを�
 
 ## こんなサインには気をつけて
 
-Like agile, the term Devops is often used for marketing or promotional purposes. This leads to a few common usages, which aren’t necessarily in keeping with what’s been said here. Watch out for:
+アジャイルのように、DevOpsはしばしばマーケティング、ないしプロモーションの目的として利用されます。  
+これは多少の用法を導きますが、ここで言っていることとは必ずしも一致しません。
 
-- Devops tools (nearly always marketing)
-- a Devops team (in many cases this is just a new silo of skills and knowledge)
-- Devops as a job title (you wouldn’t call someone “an agile”)
+こんな言い方には気をつけましょう。
+
+- DevOpsツール (だいたいはマーケティング用です)
+- DevOpsチーム (多くの場合は、ただ新しい知識とスキルの隔たりを作るだけです）
+- DevOpsという職能 (あなたは誰かを「アジャイル人だ」と呼べますか？）
 
 
 ## サービスマニュアルの関連ガイド
 
-Those interested in Devops are often also interested in:
+DevOpsに興味があるなら、これらにも興味があるでしょう。
 
 - [Configuration Management](https://www.gov.uk/service-manual/making-software/configuration-management.html)
 - [Monitoring](https://www.gov.uk/service-manual/operations/monitoring.html)
