@@ -54,13 +54,19 @@ DevOpsはオーナーシップを共有し、サービスの構築から管理�
 - テスト
 - 測定
 
-Data can be incredibly powerful for implementing change, especially when it’s used to get people from different groups involved in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can implement change on its own.
+データは驚くほど強烈な変化をもたらすことができます。エンド・ツー・エンドなサービス・デリバリー品質に関係する、異なるグループであることに慣れた人々に取っては特にです。  
+互いのチームから情報を集め、相互間で比較することができることによって変化を実行することができるようになるのです。
 
-Sharing
 
-People from different backgrounds (ie development and operations) often have different, but overlapping skill sets. Sharing between groups will spread an understanding of the different areas behind a successful service, so encourage it. Resolving issues will then be more about working together and not negotiating contracts.
+## Sharing (共有)
 
-Why Devops
+異なる背景（例えば開発と運用）を持つ人々は、異なった、けれどオーバーラップしたスキルセットを持っています。  
+グループ間で共有することは、サービスの成功の裏にある異なった領域の理解を広げます。  
+問題を解決することとは、共に働くことであり、契約を協議することではないのです。
+
+
+## 何故DevOpsか？
+
 The quality of your service will be compromised if teams can’t work together, specifically:
 
 those who build and test software
