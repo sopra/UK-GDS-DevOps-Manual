@@ -4,7 +4,7 @@
 
 ## 訳注
 
-- ※bringing togetherで『恋人と同士にさせる』って意味もあるらしいですね
+- ※bringing togetherで『恋人同士にさせる』って意味もあるらしいですね。原文には ***bringing development and operations together*** ってありました。
 
 
 ## DevOps
@@ -26,7 +26,7 @@ DevOpsは、大規模組織によって一般的に行なわれている間違�
 
 これらの単位、もしくは個人のインセンティブ間にあるコミュニケーションのコストは、価値提供の遅延と、相互のプロセスの巨大化を導きます。  
 DevOpsはこの間違いを指摘しています。DevOpsは方法論やフレームワークではありません。この間違った関係を壊す意欲と原則の集まりです。  
-特に、DevOpsは下記についてがすべてです。
+特に、DevOpsは下記の4つの項目がすべてです。。
 
 - culture (文化)
 - automation (自働化)
@@ -36,21 +36,23 @@ DevOpsはこの間違いを指摘しています。DevOpsは方法論やフレ�
 
 ## Culture (文化)
 
+DevOpsはオーナーシップを共有し、サービスの構築から管理までを共に行うコラボレーションする変化を必要としています。  
+この文化の変化は、組織を確立するために特に重要です。
 
-Devops needs a change in attitude so shared ownership and collaboration are the common working practices in building and managing a service. This culture change is especially important for established organisations.
 
-Automation
+## Automation (自働化)
 
-Many business processes are ready to be automated. Automation removes manual, error-prone tasks – allowing people to concentrate on the quality of the service. Common areas that benefit from automation are:
+多くのビジネスプロセスは、自働化される予定です。自働化はマニュアルや、間違いを引き起こすタスクをなくし、私達がサービス品質に注力することを許します。  
+自働化は、一般的な領域で役立ちます。
 
-release management (releasing software)
-provisioning
-configuration management
-systems integration
-monitoring
-orchestration (the arrangement and maintenance of complex computer systems)
-testing
-Measurement
+- リリース管理 (ソフトウェアをリリースする)
+- プロビジョニング
+- 設定管理
+- システム構築
+- 監視
+- オーケストレーション (複雑なコンピュータシステムのメンテナンス)
+- テスト
+- 測定
 
 Data can be incredibly powerful for implementing change, especially when it’s used to get people from different groups involved in the quality of the end-to-end service delivery. Collecting information from different teams and being able to compare it across former silos can implement change on its own.
 
